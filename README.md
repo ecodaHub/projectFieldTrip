@@ -1,0 +1,2 @@
+# projectFieldTrip
+project organisation docs
